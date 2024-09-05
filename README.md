@@ -1,6 +1,6 @@
 PT/BR | EN/US
 
-### Web Dev / Software Engeneering ###
+### Frontend Dev / Software Engeneering ###
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/leogemin_)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leogemin/)
